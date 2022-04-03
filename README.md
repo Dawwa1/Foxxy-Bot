@@ -12,7 +12,7 @@ pip install -r requirements.txt
 
 Then add your bot token to the .env file in thise format
 
-```bash
+```env
 BOT = "token here"
 ```
 
