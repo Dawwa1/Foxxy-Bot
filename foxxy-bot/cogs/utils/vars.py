@@ -1,0 +1,4 @@
+import nextcord
+
+
+welcomechannel = ""
