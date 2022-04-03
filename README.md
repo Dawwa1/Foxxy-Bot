@@ -21,7 +21,7 @@ Finally, run the run.py file to start the bot!
 ## Commands
 I'm adding new commands all the time! Here are the current ones
 
-```bash
+```
 1) !ban {member} {reason}
 2) !unban {member} {reason}
 3) !kick {member} {reason}
