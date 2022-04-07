@@ -1,6 +1,6 @@
-# Foxxy Discord Bot
+# Foxxy Discord Bot TESTING VERSION
 
-Foxxy is a discord bot that I am making, designed to make have a ton of features while also being minimalistic and easy to use!
+This is the testing version of the official bot. The features here are bugged and broken, and will not work as intented. This is mostly gonna be used for uploading my code for myself, but if you want to pitch in you are more then welcome to!
 
 ## Installation
 
@@ -12,14 +12,14 @@ pip install -r requirements.txt
 
 Then add your bot token to the .env file in thise format
 
-```env
+```py
 BOT = "token here"
 ```
 
 Finally, run the run.py file to start the bot!
 
 ## Commands
-I'm adding new commands all the time! Here are the current ones
+As this is the testing version, I will not be updating the commands list. These are the core commands that are already polished.
 
 ```
 1) !ban {member} {reason}
