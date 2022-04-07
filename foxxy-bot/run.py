@@ -97,8 +97,8 @@ def main():
                 await ctx.send("You forgot to give me input to repeat!")
 
 
-    #client.run(os.getenv("BOT"))
-    client.run('OTMxMDQ2ODIzMDgxMTQ4NDI2.Yd-u7A.jaYx6B8m-ChUimO4W0NLpAZ_y-c')
+    client.run(os.getenv("BOT"))
+    #client.run('put you bot token in here if the .env method doesn't work')
 
 if __name__ == '__main__':
     main()
